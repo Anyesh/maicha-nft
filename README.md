@@ -1,6 +1,6 @@
 <p align="center">
   <a href=#">
-    <img width="200" src="https://raw.githubusercontent.com/Anyesh/maicha-nft/master/assets/sample.svg">
+    <img height="200" width="200" src="https://raw.githubusercontent.com/Anyesh/maicha-nft/master/assets/sample.svg">
   </a>
 </p>
 
@@ -9,7 +9,6 @@
                  
                  
 ```JSON
-# Sample Attribute
 { 
     "name": "boksi-Ayela",
 "description": "A drawing of boksi Ayela",
