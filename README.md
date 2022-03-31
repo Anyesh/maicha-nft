@@ -1,11 +1,13 @@
 <p align="center">
   <a href=#">
-    <img width="200" src="./assets/sample.svg">
+    <img width="200" src="https://raw.githubusercontent.com/Anyesh/maicha-nft/master/assets/sample.svg">
   </a>
 </p>
 
 <h1 align="center">Maicha NFT Project</h1>
 <p align="center">Awesome maichas as a NFT</p>
+                 
+                 
 ```JSON
 # Sample Attribute
 { 
